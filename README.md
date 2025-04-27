@@ -31,9 +31,10 @@ npm install
 yarn install
 ```
 
-3. Create a `.env.local` file in the root directory and add your environment variables:
+3. Create a `.env` file in the root directory and add your environment variables:
 ```env
 NEXT_PUBLIC_API_URL=your_api_url
+NEXT_PUBLIC_BACKEND_API_V1_KEY=your_api_key
 ```
 
 ## Running the Application
